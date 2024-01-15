@@ -1,0 +1,13 @@
+[
+    {
+        "name": "admin",
+        "jumin": 111111,
+        "juminback": 1111111,
+        "phone": 1011112222,
+        "id": "admin",
+        "pass": "0000",
+        "post": 11111,
+        "road": "admin",
+        "detail": "admin"
+    }
+]
